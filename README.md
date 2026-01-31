@@ -53,10 +53,11 @@ python -m streamlit run app.py
 ```
 
 ## Repo Structure
-```bash
+```text
 app.py
 requirements.txt
 core/
+assets/
 ```
 
 ```markdown
