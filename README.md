@@ -28,9 +28,41 @@ negotiation language, and a searchable clause library across vendors.
 - PDF parsing: pdfplumber
 - Optional OCR: pytesseract + pdf2image
 
-## Setup (Mac / Apple Silicon)
+## Setup (Mac)
 ### 1) Create venv + install deps
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+```
+
+### 2) Install & Run Ollama
+```bash
+brew install ollama
+ollama serve
+```
+In a new terminal:
+```bash
+ollama pull llama3.1:8b
+# or: ollama pull mistral
+```
+
+### 3) Run App
+```bash
+python -m streamlit run app.py
+```
+
+## Repo Structure
+```bash
+app.py
+requirements.txt
+core/
+```
+
+```markdown
+## Screenshot
+![ClauseSense Demo](assets/demo1.png)
+![ClauseSense Demo](assets/demo2.png)
+
+
+
